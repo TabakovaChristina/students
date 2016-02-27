@@ -150,7 +150,7 @@
      -
    * - 13
      - Табакова Кристина
-     -
+     - TabakovaChristina_
      -
      -
      -
@@ -198,6 +198,7 @@
 .. GitHub
 
 .. _uralbash: https://github.com/uralbash
+.. _TabakovaChristina: https://github.com/TabakovaChristina
 
 
 .. Домашняя работа #1
